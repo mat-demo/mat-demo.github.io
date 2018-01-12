@@ -1,0 +1,6 @@
+.slide-toggle-example {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; }
+  .slide-toggle-example mat-slide-toggle {
+    margin: 6px 0; }
